@@ -1,2 +1,1 @@
-# react-native-app-intents
-react-native-app-intents
+The **React Native App Intents Framework** is a lightweight wrapper that enables seamless integration of App Intents into your React Native applications. This framework allows your app's actions and content to deeply integrate with system experiences across platforms, including Siri, Spotlight, widgets, controls, and more.
